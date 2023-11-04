@@ -1,2 +1,3 @@
 --Execute MySQL command to list databases
-"SHOW DATABASES;"
+mysql -u user -p
+SHOW DATABASES;
